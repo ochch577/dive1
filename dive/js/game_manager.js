@@ -31,7 +31,7 @@ GameManager.prototype.setup = function () {
     this.tilesSeen = [2];
   } 
 
-  this.score        = 0;
+  this.score        = 67;
   this.over         = false;
   this.won          = false;
 
